@@ -1,19 +1,16 @@
-# Low-Level & High-Performance Systems Engineer 
+# ── Low-Level & High-Performance Systems Engineer ──
 
-### **Languages**
+### [ Languages ]
 C++ · C · Rust · Assembly · Python · Bash
 
-### **SIMD**
+### [ SIMD ]
 AVX · FMA · SSE · NEON · HELIUM
 
-### **GPU**
+### [ GPU ]
 CUDA · OpenCL · Vulkan · Metal · OpenGL · ROCm · HIP
 
-### **Toolchains**
-GCC · Clang · Conan · Vcpkg · CMake · Make · Ninja · Cargo
+### [ Toolchains ]
+GCC · Clang · CMake · Ninja · Conan · Vcpkg · Cargo
 
-### **DevOps**
+### [ DevOps ]
 CI/CD · Integration Testing · Benchmarking
-
-
-
